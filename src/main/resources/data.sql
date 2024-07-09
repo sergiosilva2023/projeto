@@ -1,0 +1,11 @@
+INSERT INTO DEV_USUARIO (ID, NOME, LOGIN, SENHA, EMAIL) VALUES (1, 'Sérgio Silva', 'sergio', '12345', 'sergio.web100@gmail.com');
+INSERT INTO DEV_USUARIO (ID, NOME, LOGIN, SENHA, EMAIL) VALUES (2, 'Wiliam Silva', 'wiliam', '12345', 'wiliam.web100@gmail.com');
+
+
+INSERT INTO DEV_PERFIL (ID, DESCRICAO) VALUES (1, 'Administrador');
+INSERT INTO DEV_PERFIL (ID, DESCRICAO) VALUES (2, 'Gerente');
+INSERT INTO DEV_PERFIL (ID, DESCRICAO) VALUES (3, 'Cliente');
+
+INSERT INTO DEV_RECURSO (ID, NOME, CHAVE) VALUES (1, 'Tela Usuário', 'usuario');
+INSERT INTO DEV_RECURSO (ID, NOME, CHAVE) VALUES (2, 'Tela Perfil', 'perfil');
+INSERT INTO DEV_RECURSO (ID, NOME, CHAVE) VALUES (3, 'Tela Recurso', 'recurso');
