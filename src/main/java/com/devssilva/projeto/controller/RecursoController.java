@@ -18,8 +18,8 @@ import com.devssilva.projeto.dto.RecursoDTO;
 import com.devssilva.projeto.service.RecursoService;
 
 @RestController
-@CrossOrigin
 @RequestMapping(value = "/recurso")
+@CrossOrigin
 public class RecursoController {
 	
 	@Autowired

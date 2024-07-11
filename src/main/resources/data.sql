@@ -1,5 +1,4 @@
 INSERT INTO DEV_USUARIO (ID, NOME, LOGIN, SENHA, EMAIL) VALUES (1, 'Sérgio Silva', 'sergio', '12345', 'sergio.web100@gmail.com');
-INSERT INTO DEV_USUARIO (ID, NOME, LOGIN, SENHA, EMAIL) VALUES (2, 'Wiliam Silva', 'wiliam', '12345', 'wiliam.web100@gmail.com');
 
 
 INSERT INTO DEV_PERFIL (ID, DESCRICAO) VALUES (1, 'Administrador');
